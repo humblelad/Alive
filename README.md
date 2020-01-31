@@ -5,3 +5,5 @@ Python Tool to find the number of live hosts.
 
 # USAGE
 python3 resolver.py
+
+![](alive.gif)
